@@ -1,0 +1,22 @@
+Tokens:
+var                  PALABRA_RESERVADA    Linea: 1 Columna: 1
+x                    IDENTIFICADOR        Linea: 1 Columna: 4
+=                    ASIGNACION           Linea: 1 Columna: 5
+10                   ENTERO               Linea: 1 Columna: 6
+;                    PUNTO_Y_COMA         Linea: 1 Columna: 8
+var                  PALABRA_RESERVADA    Linea: 2 Columna: 1
+y                    IDENTIFICADOR        Linea: 2 Columna: 4
+=                    ASIGNACION           Linea: 2 Columna: 5
+5                    ENTERO               Linea: 2 Columna: 6
+;                    PUNTO_Y_COMA         Linea: 2 Columna: 7
+var                  PALABRA_RESERVADA    Linea: 3 Columna: 1
+z                    IDENTIFICADOR        Linea: 3 Columna: 4
+=                    ASIGNACION           Linea: 3 Columna: 5
+x                    IDENTIFICADOR        Linea: 3 Columna: 6
+sum                  OPERADOR             Linea: 3 Columna: 7
+y                    IDENTIFICADOR        Linea: 3 Columna: 10
+;                    PUNTO_Y_COMA         Linea: 3 Columna: 11
+mostrar              PALABRA_RESERVADA    Linea: 4 Columna: 1
+z                    IDENTIFICADOR        Linea: 4 Columna: 8
+;                    PUNTO_Y_COMA         Linea: 4 Columna: 9
+fin                  PALABRA_RESERVADA    Linea: 5 Columna: 1
